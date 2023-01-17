@@ -1,3 +1,4 @@
-# 房价预测
-## 线性回归
-# running code: python.py server
+# house price predict(房价预测)
+### linear regression
+### running code: python.py server
+web interface
