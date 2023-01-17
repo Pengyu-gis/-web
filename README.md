@@ -1,4 +1,4 @@
-# house price predict(房价预测)
+# house price assessment(房价评估)
 ### linear regression
 ### running code: python.py server
 ### web interface
